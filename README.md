@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm xiao7</h1>
 <h3 align="center">A passionate frontend developer from China</h3>  
 
-- 📫 How to reach me me@iam7.cn**
+- 📫 How to reach me me@iam7.cn
 
 
 <h3 align="left">Languages and Tools:</h3>
